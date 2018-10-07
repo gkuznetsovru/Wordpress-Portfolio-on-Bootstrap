@@ -1,5 +1,4 @@
-Bootstrap 4 on Wordpress
+Wordpress Portfolio on Bootstrap 4
 ===========
-Bootstrap 4 on WordPress is a blank bootstrap 4 ready WordPress theme.
+WordPress theme for Portfolio.
 
-For the full documentation visit the [Bootstrap 4 on WordPress](http://bootstrap4onwordpress.babobski.nl/) website.
